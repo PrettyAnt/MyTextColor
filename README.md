@@ -1,0 +1,2 @@
+# MyTextColor
+自定义SkipTextView继承自TextView,给一段文字的某个区域设置颜色并且设置可点击
