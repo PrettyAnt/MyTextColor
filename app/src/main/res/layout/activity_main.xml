@@ -16,4 +16,13 @@
         android:gravity="center"
         android:textColor="#000"
         android:text="温馨提示，如需了解折算年化手续费率/利率，请点击此处" />
+
+    <TextView
+        android:id="@+id/tv_show2"
+        android:layout_marginTop="100dp"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:gravity="center"
+        android:textColor="#000"
+        android:text="温馨提示，如需了解折算年化手续费率/利率，请点击此处" />
 </LinearLayout>
